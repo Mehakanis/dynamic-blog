@@ -46,7 +46,7 @@ export default function BlogPost() {
   };
 
   return (
-    <main className="max-w-screen-lg mx-auto py-8 content-center border-b-2 border-[#3333] pb-14">
+    <main className="max-w-screen-lg mx-auto py-8 content-center border-b-2 border-[#3333] pb-14 ml-5 md:ml-0">
       <h1 className="text-3xl md:text-4xl font-bold">{blog.title}</h1>
       <p className="text-gray-600 mt-2">
         {blog.author} - {blog.readTime}
