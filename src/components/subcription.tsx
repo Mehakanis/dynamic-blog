@@ -14,7 +14,7 @@ export default function Subscription(){
                 
                     />
                     <div>
-                    <button className="bg-[#FFB6C1] text-[#333333] px-3 py-1 rounded-lg ml-[-4]">Subscribe</button>
+                    <button className="bg-[#FFB6C1] text-[#333333] px-3 py-1 rounded-lg mr-auto">Subscribe</button>
                     </div>
                     </div>
                 </div>
