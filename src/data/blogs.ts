@@ -89,6 +89,21 @@ const blogs = [
     readTime: "6min read",
     image: "/t6.png",
   },
+{
+  id: 7,
+  title: "10 Must-Have Skincare Products for Radiant Skin",
+  description:
+    "Explore the essential skincare products that can transform your daily routine. From hydrating serums to powerful antioxidants, discover the secrets to achieving radiant and healthy skin. This guide highlights the must-have products to help you build a glowing skincare regimen that suits all skin types. Whether you're looking for hydration, anti-aging benefits, or skin protection, these products will help elevate your skincare routine to the next level.",
+  subheading1: "Step 1: Hydrating Serums",
+  description1:
+    "Hydrating serums are packed with moisture-boosting ingredients like hyaluronic acid, which help replenish the skin's natural hydration levels. Use these serums after cleansing and before moisturizing to lock in moisture and keep your skin feeling plump and dewy throughout the day. They are essential for maintaining skin health and combating dryness, especially in cold weather.",
+  subheading2: "Step 2: Powerful Antioxidants",
+  description2:
+    "Antioxidants such as Vitamin C, Vitamin E, and green tea extract protect the skin from environmental damage caused by free radicals. They help brighten the skin, reduce the appearance of fine lines, and improve overall skin texture. Look for serums or creams rich in antioxidants to incorporate into your morning routine for optimal protection against sun damage and pollution.",
+  author: "Sophie Turner",
+  readTime: "5min read",
+  image: "/hero.png",
+}
 ];
 
 export default blogs;
